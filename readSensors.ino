@@ -2,6 +2,9 @@ int sensorPin = A5;
 int sensorPin2 = A4;
 int sensorValue = 0;
 int sensorValue2 = 0;
+
+// This is a new comment
+
 void setup() {
   Serial.begin(1200);
 
